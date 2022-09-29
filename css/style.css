@@ -200,6 +200,12 @@ figure img {
 
 /* Media Queries */
 
+@media all and (max-width: 1200px) {
+  main {
+    margin: 0 4rem;
+  }
+}
+
 @media all and (max-width: 992px) {
   main {
     margin: 1rem;
